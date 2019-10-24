@@ -39,6 +39,6 @@ public class asf {
         check(b, count);
         if (count > 0) {
             System.out.println("YES");
-        } else System.out.println("NO");
+        } else System.out.println("NO"); //Test of git
     }
 }
